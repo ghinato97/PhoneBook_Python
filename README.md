@@ -5,7 +5,7 @@ This is a little project that aims to develop a Phone Book using OOP paradigm wi
 - Data Structure: Create an efficient data structure for storing contacts.
 - User Interface: Develop an interactive and easy-to-use command-line interface.
 ### Functionality:
--Adding a Contact: Allow new contacts to be added.
+- Adding a Contact: Allow new contacts to be added.
 - Viewing Contacts: Show all contacts present.
 - Editing a Contact: Allow editing of existing contact details.
 - Deleting a Contact: Remove contacts from the address book.
